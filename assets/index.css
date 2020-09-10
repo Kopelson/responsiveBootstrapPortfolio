@@ -1,0 +1,19 @@
+
+body{
+    /* Photo by Laura Meinhardt from Pexels */
+    background-image: url("/assets/images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-white {
+    background-color: white;
+}
+
+.border-5 {
+    border-width:5px !important;
+}
+
+.float-left {
+    float: left;
+}
