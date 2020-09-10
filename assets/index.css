@@ -1,7 +1,7 @@
 
 body{
     /*Photo by Max Okhrimenko on Unsplash */
-    background-image: url("./images/bg.jpg");
+    background-image: url("images/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #999;
