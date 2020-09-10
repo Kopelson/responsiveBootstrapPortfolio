@@ -10,9 +10,9 @@ Kenneth Kopelson
 
 ## Self imposed rules
 * Develop a portfolio with the following items:
-    * 1.A navbar
-    * 2.A responsive layout
-    * 3.Resposive images
+    * A navbar
+    * A responsive layout
+    * Resposive images
 * Minimize the use of media queries.
 * Use Semantic html.
 * Utilize Bootstrap components and grid system
