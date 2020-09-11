@@ -1,21 +1,50 @@
-
+/*background image*/
 body{
-    /*Photo by Max Okhrimenko on Unsplash */
-    background-image: url("images/bg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: #999;
-    height: 250vh;
+    /*Photo by unknown on Pixabay URL(https://pixabay.com/illustrations/quatrefoil-pattern-teal-green-898081/)*/
+    background-image: url("images/bgpattern.jpg");
+    background-repeat: repeat;
+    margin-bottom: 100px;
+    height: auto;
 }
 
-.background-white {
+/*background styling*/
+.bg-cadetblue {
+    background-color: #4aaaa5;
+}
+
+.bg-white {
     background-color: white;
 }
 
-.border-5 {
-    border-width:5px !important;
+.bg-gray {
+    background-color: #666666;
+}
+
+/*font styling */
+p {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-cadetblue {
+    color: #4aaaa5;
+}
+
+h1 {
+    font-weight: bold;
+}
+/*border styling*/
+.border-footer {
+    border-top-style: solid;
+    border-top-width:5px !important;
+    border-top-color: #4aaaa5;
 }
 
 hr.line {
     border-top: 1px solid lightgray;
 }
+
+/*footer*/
