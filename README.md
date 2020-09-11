@@ -9,10 +9,16 @@ Thanks!
 Kenneth Kopelson 
 
 ## Overview
-
-![index](https://user-images.githubusercontent.com/57735283/92968975-e4a75300-f430-11ea-96bf-7056d1b3338e.gif)
-
 * Project link: https://kopelson.github.io/Portfolio/
+
+
+![index](https://user-images.githubusercontent.com/57735283/92969936-b62a7780-f432-11ea-88f7-1b517e989b3a.gif)
+* index page - large screen navbar
+
+
+![contact](https://user-images.githubusercontent.com/57735283/92969769-6cda2800-f432-11ea-92a1-faed4b4eeaf7.gif)
+* contact page - small screen navbar
+   
 
 ## Self imposed rules
 * Develop a portfolio with the following items using Bootstrap:
