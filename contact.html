@@ -4,22 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
-    <!--Link to Reset CSS-->
+    <!--Link to Reset CSS -->
     <link rel="stylesheet" type="text/css" href="reset.css">
-    <!--Link to Bootstrap CSS-->
+    <!--Link to Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <!--Link to Index CSS-->
+    <!--Link to Index CSS -->
     <link rel="stylesheet" type="text/css" href="./assets/index.css">
 </head>
+<!-- Built with bootstrap components, utilities, and grid system. Check out index.css for custom changes to webpage. -->
 <body>
     <header>
-    <!--Bootstrap Nav Bar-->
+    <!-- Bootstrap navbar component -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <h1 class="navbar-brand text-light bg-cadetblue pt-2 pb-2 ml-0" >Kenneth Kopelson</h1>
         <button class="navbar-toggler pt-1 pb-1" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-      
         <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
           <ul class="navbar-nav">
             <li class="nav-item">
@@ -35,11 +35,11 @@
         </div>
       </nav>
     </header>
-
+    <!-- Bootstrap grid system to position main body of text-->
     <div class="container mt-5">
       <div class="row">
         <div class="col-md-8">
-          <div class="container bg-white border">
+          <main class="container bg-white border">
             <div class="row">
               <div class="col">
                 <h1 class="pt-4 text-cadetblue">Contact</h1>
@@ -52,6 +52,7 @@
           </div>
           <div class="row">
             <div class="col">
+              <!-- Bootstrap form component -->
               <form>
                 <div class="form-group ml-3">
                   <label for="name">Name</label>
@@ -65,17 +66,20 @@
                   <label for="textarea">Message</label>
                   <textarea class="form-control" id="textarea" rows="3" placeholder="Message"></textarea>
                 </div>
+                <!-- Bootstrap button component -->
                 <button type="submit" class="btn text-light bg-cadetblue pt-3 pb-3 pl-4 pr-4 mb-5">Submit</button>
               </form>
             </div>
           </div>
-          </div>
+          </main>
         </div>
       </div>
     </div>
-
+    <!-- Footer sticks to bottom of page -->
     <footer class="fixed-bottom border-footer">
+      <!-- Bootstrap navbar component -->
       <nav class="navbar navbar-dark bg-gray justify-content-center">
+        <!-- Copyright info -->
         <small class="text-white-50 p-2">© 2020 Kenneth Kopelson</small>
       </nav>
     </footer>
