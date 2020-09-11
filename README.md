@@ -2,7 +2,7 @@
 
 ## Description 
 
-Welcome to my first developer portfolio! I designed a responsive web site to show off the different projects I have been working on. I used Bootstrap CSS Framework to create a mobile responsive portfolio. Feel free to take a look at how I applied Bootstrap classes and components to my website.
+Welcome to my first developer portfolio! I designed a responsive website to show off the different projects I have been working on. I used Bootstrap CSS Framework to create a mobile responsive portfolio. Feel free to take a look at how I applied Bootstrap classes and components to my website.
 
 Thanks!
 
