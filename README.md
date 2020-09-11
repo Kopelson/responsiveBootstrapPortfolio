@@ -8,14 +8,20 @@ Thanks!
 
 Kenneth Kopelson 
 
+## Overview
+
+![index](https://user-images.githubusercontent.com/57735283/92968975-e4a75300-f430-11ea-96bf-7056d1b3338e.gif)
+
+* Project link: https://kopelson.github.io/Portfolio/
+
 ## Self imposed rules
-* Develop a portfolio with the following items:
+* Develop a portfolio with the following items using Bootstrap:
     * A navbar
     * A responsive layout
     * Resposive images
 * Minimize the use of media queries.
 * Use Semantic html.
-* Utilize Bootstrap components and grid system
+* Utilize Bootstrap components and grid system.
 
 ## Credits
 
