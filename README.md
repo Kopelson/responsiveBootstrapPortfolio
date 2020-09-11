@@ -20,7 +20,7 @@ Kenneth Kopelson
 ![contact](https://user-images.githubusercontent.com/57735283/92969769-6cda2800-f432-11ea-92a1-faed4b4eeaf7.gif)
 * Small screen dropdown navbar
 
-### Project
+### Portfolio
 ![project](https://user-images.githubusercontent.com/57735283/92970868-47e6b480-f434-11ea-90c5-24afd8e19237.gif)
 * Responsive Bootstrap grid system
    
