@@ -11,13 +11,17 @@ Kenneth Kopelson
 ## Overview
 * Project link: https://kopelson.github.io/Portfolio/
 
-
+### About
 ![index](https://user-images.githubusercontent.com/57735283/92969936-b62a7780-f432-11ea-88f7-1b517e989b3a.gif)
-* index page - large screen navbar
+* Responsive Bootstrap navbar
 
-
+### Contact
 ![contact](https://user-images.githubusercontent.com/57735283/92969769-6cda2800-f432-11ea-92a1-faed4b4eeaf7.gif)
-* contact page - small screen navbar
+* Small screen dropdown navbar
+
+### Project
+![project](https://user-images.githubusercontent.com/57735283/92970868-47e6b480-f434-11ea-90c5-24afd8e19237.gif)
+* Responsive Bootstrap grid system
    
 
 ## Self imposed rules
