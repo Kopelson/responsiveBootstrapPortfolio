@@ -10,7 +10,7 @@ Kenneth Kopelson
 
 ## Overview
 
-* Project link: https://kopelson.github.io/Portfolio/
+* Project link: https://kopelson.github.io/responsiveBootstrapPortfolio/
 
 ### About
 ![index](https://user-images.githubusercontent.com/57735283/92969936-b62a7780-f432-11ea-88f7-1b517e989b3a.gif)
